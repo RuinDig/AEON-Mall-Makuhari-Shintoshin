@@ -1,5 +1,5 @@
 # AEON-Mall-Makuhari-Shintoshin
-イオンモール幕張新都心
+イオンモール幕張新都心とその周辺
 
 # 2014.3
 
